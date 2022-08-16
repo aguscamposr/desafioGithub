@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.holaMundo {
+    background-color: aqua;
+    text-align: ;
+    margin: auto 0;
+}
+/* mobile last */
+@media (max-width:550px) {
+    .holaMundo {
+        background-color: blueviolet;
+    }
+    
+}
