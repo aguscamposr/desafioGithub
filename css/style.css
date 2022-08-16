@@ -8,6 +8,11 @@
     text-align: center;
     margin: auto 0;
 }
+.holaMundo:hover {
+    background-color: rgb(6, 132, 206);
+    transition: 300ms;
+    transform: skew(10deg);
+}
 .flex-index {
     display: flex;
     flex-wrap: wrap;
