@@ -5,8 +5,16 @@
 }
 .holaMundo {
     background-color: aqua;
-    text-align: ;
+    text-align: center;
     margin: auto 0;
+}
+.flex-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.flex-index img {
+    padding: 5px;
 }
 /* mobile last */
 @media (max-width:550px) {
